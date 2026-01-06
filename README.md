@@ -41,7 +41,7 @@
 
 📸 نمونه‌ای از پنل مدیریت:
 
-![Admin Panel](./images/admin-panel.png)
+![Admin Panel](imagess/admin-panel.png)
 
 ---
 
