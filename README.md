@@ -81,8 +81,8 @@
 
 ## 🛠️ تکنولوژی‌های استفاده‌شده
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: (قابل توسعه / API-based)
+- Frontend: (React, Next.js, Typescipt, )
+- Backend: (Django REST Framework,API Based Architecture, Total DevOps engineering)
 - UI Design: Custom Design
 - Architecture: Modular & Scalable
 
