@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=30&pause=1000&color=7D4F39&center=true&vCenter=true&width=500&lines=Fakher+Furniture+Store+System;Modern+Shopping+Experience+with+Next.js;Smart+Management+with+Django" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=25&pause=1000&color=7D4F39&center=true&vCenter=true&width=700&lines=Fakher+Furniture+Store+System;Modern+Shopping+Experience+with+Next.js;Smart+Management+with+Django" alt="Typing SVG" />
 
   <br />
 
